@@ -1,6 +1,14 @@
 # spaceInvaders-customController
 [Arduino &amp; Processing]  A Space Invaders clone that utilizes an Arduino to create a custom controller for alien-blasting action
 
+Contains: 
+
+[spaceInvaders2_0.pde]  Main source code for the project
+
+[Alien.pde] / [Bullet.pde] / [Cannon.pde] / [Fire.pde] / [gameLogic.pde]  Class files to accompany the main source code
+
+[DATA] A folder containing the assets for the game
+
 
 Video Tutorial & Walkthrough:
 
